@@ -20,7 +20,7 @@
   <a href="https://github.com/raza4develop" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-@raza4develop-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/your-linkedin" target="https://www.linkedin.com/in/ahmad-raza732391?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://yourportfolio.com" target="_blank">
